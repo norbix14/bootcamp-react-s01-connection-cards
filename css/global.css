@@ -1,0 +1,38 @@
+:root {
+	--bg-main: #a1b2bc;
+	--color-light: #e4f2fd;
+	--bg-blue: rgba(0,0,240, 0.9);
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 18px;
+}
+
+a {
+	text-decoration: none;
+}
+i {
+	color: #fff;
+}
+
+.float-left {
+	float: left;
+}
+
+.float-right {
+	float: right;
+}
+
+.clearfix {
+	clear: both;
+}
+
+img {
+	width: 100%;
+}
